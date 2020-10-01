@@ -60,7 +60,7 @@ $ ln -s ../pyret-lang pyret
 
 ## Configuration with Google Auth and Storage
 
-In order to have share links, saving, and other docs-related functionality
+In order to have shared links, saving, and other docs-related functionality
 work, you need to add to your `.env` a Google client secret, a client ID, a
 browser API key, and a server API key.  You'll copy
 `.env.example` to `.env`, and populate several from your dashboard at Google.
